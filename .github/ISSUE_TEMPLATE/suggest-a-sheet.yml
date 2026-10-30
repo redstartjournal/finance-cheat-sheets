@@ -1,0 +1,15 @@
+name: Suggest a sheet
+description: An idea for a new cheat sheet
+title: "Sheet idea: "
+labels: [idea]
+body:
+  - type: input
+    id: idea
+    attributes: { label: The idea in one line }
+    validations: { required: true }
+  - type: textarea
+    id: who
+    attributes: { label: Who does it help, and why?, description: "For example: people buying their first ETF in Europe" }
+  - type: textarea
+    id: sources
+    attributes: { label: Sources you would use }

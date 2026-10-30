@@ -1,0 +1,17 @@
+name: Correction
+description: Something on a sheet is wrong or out of date
+title: "Correction: "
+labels: [correction]
+body:
+  - type: input
+    id: sheet
+    attributes: { label: Which sheet?, description: Its title or link }
+    validations: { required: true }
+  - type: textarea
+    id: wrong
+    attributes: { label: What is wrong?, description: Quote the words or number on the sheet }
+    validations: { required: true }
+  - type: textarea
+    id: right
+    attributes: { label: What is right, and where does it say so?, description: "A source we can check: a regulator, a law, an official statistic, a company report" }
+    validations: { required: true }
