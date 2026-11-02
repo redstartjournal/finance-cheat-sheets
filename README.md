@@ -60,6 +60,7 @@ The animated versions, and lessons that go deeper, are free at [Red Start Educat
 
 Next in the course.
 
+
 ### How Markets Work
 
 Next in the course.
