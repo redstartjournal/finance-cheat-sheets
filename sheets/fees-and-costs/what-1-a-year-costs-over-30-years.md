@@ -16,10 +16,10 @@ One Sum, Two Paths.
 
 Year by Year, for Example. Green: 6% a year, no cost. Orange: 5% a year: 6% minus a 1% cost.
 Year 0: €10,000 and €10,000.
-Year 10: €18,000 and €16,000, a gap of €2,000.
-Year 20: €32,000 and €27,000, a gap of €5,000.
-Year 30: €57,000 and €43,000, a gap of €14,000.
-The gap keeps growing: €2,000, then €5,000, then €14,000, after 10, 20 and 30 years. About a quarter of the end value.
+Year 10: €18,000 and €16,000, a gap of €1,600.
+Year 20: €32,000 and €27,000, a gap of €5,500.
+Year 30: €57,000 and €43,000, a gap of €14,200.
+The gap keeps growing: €1,600, then €5,500, then €14,200, after 10, 20 and 30 years. About a quarter of the end value.
 
 Where the Gain Goes. Gain with no cost: €47,000. Gain after the cost: €33,000. The cost took 30% of the gain.
 
