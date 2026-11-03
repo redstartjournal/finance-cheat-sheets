@@ -5,7 +5,7 @@ Money and investing explained in pictures, one idea per sheet. Made in Europe, e
 Each sheet shows how something really works: where your fees go, how an ETF is built, what happens after you click
 "buy". New sheets arrive every day, one category at a time. Every fact on a sheet has a source, listed under it.
 
-The animated versions, and lessons that go deeper, are free at [Red Start Education](https://education.redstartjournal.com/cheat-sheets).
+The animated versions, and lessons that go deeper, are free at [Red Start Education](https://education.redstartjournal.com/cheat-sheets?utm_source=github&utm_medium=readme&utm_campaign=cheat-sheets).
 
 > Education, not investment advice. No sheet tells you what to buy or sell.
 
@@ -119,3 +119,5 @@ The sheets are free to read and share under [CC BY-NC-ND 4.0](https://creativeco
 share them with credit, not for money, and not changed. See [LICENSE.md](LICENSE.md).
 
 Made by [Red Start Journal](https://redstartjournal.com), an investing journal in public. Education, not investment advice.
+
+If a sheet helped you, a star helps others find it.
