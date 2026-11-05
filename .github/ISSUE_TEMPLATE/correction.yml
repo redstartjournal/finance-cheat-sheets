@@ -13,5 +13,5 @@ body:
     validations: { required: true }
   - type: textarea
     id: right
-    attributes: { label: What is right, and where does it say so?, description: "A source we can check: a regulator, a law, an official statistic, a company report" }
+    attributes: { label: "What is right, and where does it say so?", description: "A source we can check: a regulator, a law, an official statistic, a company report" }
     validations: { required: true }
