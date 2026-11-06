@@ -9,7 +9,7 @@ body:
     validations: { required: true }
   - type: textarea
     id: who
-    attributes: { label: Who does it help, and why?, description: "For example: people buying their first ETF in Europe" }
+    attributes: { label: "Who does it help, and why?", description: "For example: people buying their first ETF in Europe" }
   - type: textarea
     id: sources
     attributes: { label: Sources you would use }
