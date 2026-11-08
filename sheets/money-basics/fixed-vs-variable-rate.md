@@ -19,6 +19,7 @@ Example rates. Variable loans follow a market rate such as Euribor, plus the ban
 ## Sources
 
 1. [Key ECB interest rates](https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html): European Central Bank, current table: the deposit facility rate was −0.50% until 27 July 2022 and reached 4.00% on 20 September 2023. Checked 2026-10-30.
+2. [Buying a home: Mortgages made easy](https://www.bancaditalia.it/pubblicazioni/guide-bi/guida-mutuo/Bank-of-Italy-Guides_Buying-a-home_Mortgages-made-easy.pdf?language_id=1): Banca d'Italia guide, updated February 2026: a fixed rate stays the same for the whole loan; a variable rate is adjusted at set times to follow a market index, so payments can rise; a variable loan usually starts lower than a fixed one; the rate is an index plus the lender's margin (spread), and variable-rate loans usually use the Euribor or the ECB's official rate. Backs "Often a bit higher at the start" and "a market rate such as Euribor, plus the bank's margin". Checked 2026-11-02.
 
 ---
 
