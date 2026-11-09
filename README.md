@@ -58,8 +58,9 @@ The animated versions, and lessons that go deeper, are free at [Red Start Educat
 
 ### Funds & ETFs
 
-Next in the course.
-
+- [Accumulating vs Distributing](sheets/funds-and-etfs/accumulating-vs-distributing.md): The same dividends take two routes. A payout is not a gift: on each pay date the fund price drops by the amount paid.
+- [Physical vs Synthetic](sheets/funds-and-etfs/physical-vs-synthetic.md): On US shares a swap ETF skips the 15% US dividend tax a physical Irish fund pays. The edge comes with bank risk, capped at 10%.
+- [What UCITS Means](sheets/funds-and-etfs/what-ucits-means.md): The EU fund rulebook on a €100 million fund. It spreads risk but does not remove it: a UCITS world ETF fell 12.96% in 2022.
 
 ### How Markets Work
 
