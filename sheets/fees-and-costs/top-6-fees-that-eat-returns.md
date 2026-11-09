@@ -8,7 +8,7 @@ Six costs that quietly shrink what you keep: fund fees, commissions, currency ex
 
 Top 6 Fees That Eat Returns.
 
-Fund Fee. A yearly % taken, up or down.
+Fund Fee. A yearly % taken, win or lose.
 €10,000, 6% a year before fees, 30 years.
 Fee 0.2%: €54,000. Fee 1.5%: €37,000. Minus €17,000.
 
