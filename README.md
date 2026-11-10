@@ -61,6 +61,9 @@ The animated versions, and lessons that go deeper, are free at [Red Start Educat
 - [Accumulating vs Distributing](sheets/funds-and-etfs/accumulating-vs-distributing.md): The same dividends take two routes. A payout is not a gift: on each pay date the fund price drops by the amount paid.
 - [Physical vs Synthetic](sheets/funds-and-etfs/physical-vs-synthetic.md): On US shares a swap ETF skips the 15% US dividend tax a physical Irish fund pays. The edge comes with bank risk, capped at 10%.
 - [What UCITS Means](sheets/funds-and-etfs/what-ucits-means.md): The EU fund rulebook on a €100 million fund. It spreads risk but does not remove it: a UCITS world ETF fell 12.96% in 2022.
+- [How to Read an ETF Factsheet](sheets/funds-and-etfs/how-to-read-an-etf-factsheet.md): Five lines, read on a real €131 billion MSCI World ETF. The fund currency is not your risk: 73% of the money sits in US shares.
+- [TER vs What You Really Pay](sheets/funds-and-etfs/ter-vs-what-you-really-pay.md): No bill ever comes: the TER is taken inside the fund every day. Two ETFs on the same index cost €6 or €45 a year on €10,000.
+- [ETF vs Fund vs Share](sheets/funds-and-etfs/etf-vs-fund-vs-share.md): A share or an ETF is priced now, on an exchange. A classic fund is priced once, after the cut-off, and the bank's cut-off can be earlier.
 
 ### How Markets Work
 
