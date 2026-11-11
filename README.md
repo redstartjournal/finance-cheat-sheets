@@ -64,6 +64,9 @@ The animated versions, and lessons that go deeper, are free at [Red Start Educat
 - [How to Read an ETF Factsheet](sheets/funds-and-etfs/how-to-read-an-etf-factsheet.md): Five lines, read on a real €131 billion MSCI World ETF. The fund currency is not your risk: 73% of the money sits in US shares.
 - [TER vs What You Really Pay](sheets/funds-and-etfs/ter-vs-what-you-really-pay.md): No bill ever comes: the TER is taken inside the fund every day. Two ETFs on the same index cost €6 or €45 a year on €10,000.
 - [ETF vs Fund vs Share](sheets/funds-and-etfs/etf-vs-fund-vs-share.md): A share or an ETF is priced now, on an exchange. A classic fund is priced once, after the cut-off, and the bank's cut-off can be earlier.
+- [MSCI, FTSE, S&P: Index Families](sheets/funds-and-etfs/msci-ftse-sandp-index-families.md): Three firms build the lists most ETFs copy. MSCI World has 23 countries, but 73% of it is US companies.
+- [Why So Many ETFs Live in Ireland](sheets/funds-and-etfs/why-so-many-etfs-live-in-ireland.md): On €10,000 in MSCI World, US tax takes €27 a year at 30% but €14 in an Irish fund: almost as much as a €20 fee.
+- [Tracking Difference](sheets/funds-and-etfs/tracking-difference.md): The gap between fund and index can be smaller than the fee: a 0.20% TER minus a 0.14% tax edge leaves a gap of about 0.06%.
 
 ### How Markets Work
 
