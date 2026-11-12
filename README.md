@@ -20,6 +20,7 @@ The animated versions, and lessons that go deeper, are free at [Red Start Educat
 ### ★ Featured
 
 - [Top 6 Fees That Eat Returns](sheets/fees-and-costs/top-6-fees-that-eat-returns.md): Six costs that quietly shrink what you keep: fund fees, commissions, currency exchange, the spread, account fees and trade taxes.
+- [What Is an ETF?](sheets/funds-and-etfs/what-is-an-etf.md): A fund you buy like a share. €100 in a world ETF, opened up: 1,249 firms, but €28 of it sits in just 10.
 - [Where Your €1,000 Goes](sheets/fees-and-costs/where-your-1000-euros-goes.md): Buying a US share from a European account: the fees your €1,000 meets on the way, step by step.
 - [Where Your Savings Account Money Goes](sheets/money-basics/where-your-savings-account-money-goes.md): Your bank keeps a small part at the central bank, uses the rest for loans, and pays you part of what the loans earn. Example rates.
 
@@ -58,6 +59,7 @@ The animated versions, and lessons that go deeper, are free at [Red Start Educat
 
 ### Funds & ETFs
 
+- [What Is an ETF?](sheets/funds-and-etfs/what-is-an-etf.md): A fund you buy like a share. €100 in a world ETF, opened up: 1,249 firms, but €28 of it sits in just 10.
 - [Accumulating vs Distributing](sheets/funds-and-etfs/accumulating-vs-distributing.md): The same dividends take two routes. A payout is not a gift: on each pay date the fund price drops by the amount paid.
 - [Physical vs Synthetic](sheets/funds-and-etfs/physical-vs-synthetic.md): On US shares a swap ETF skips the 15% US dividend tax a physical Irish fund pays. The edge comes with bank risk, capped at 10%.
 - [What UCITS Means](sheets/funds-and-etfs/what-ucits-means.md): The EU fund rulebook on a €100 million fund. It spreads risk but does not remove it: a UCITS world ETF fell 12.96% in 2022.
@@ -67,6 +69,8 @@ The animated versions, and lessons that go deeper, are free at [Red Start Educat
 - [MSCI, FTSE, S&P: Index Families](sheets/funds-and-etfs/msci-ftse-sandp-index-families.md): Three firms build the lists most ETFs copy. MSCI World has 23 countries, but 73% of it is US companies.
 - [Why So Many ETFs Live in Ireland](sheets/funds-and-etfs/why-so-many-etfs-live-in-ireland.md): On €10,000 in MSCI World, US tax takes €27 a year at 30% but €14 in an Irish fund: almost as much as a €20 fee.
 - [Tracking Difference](sheets/funds-and-etfs/tracking-difference.md): The gap between fund and index can be smaller than the fee: a 0.20% TER minus a 0.14% tax edge leaves a gap of about 0.06%.
+- [Thematic ETF Traps](sheets/funds-and-etfs/thematic-etf-traps.md): €10,000 in a clean energy ETF became €6,662 in 5 years; in a world ETF, €17,216. The theme can win while the fund loses.
+- [Money Market Funds](sheets/funds-and-etfs/money-market-funds.md): A fund of very short loans whose yield follows the ECB rate: about €250 a year on €10,000 now, below zero in 2019 to 2022. No guarantee.
 
 ### How Markets Work
 
