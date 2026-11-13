@@ -71,6 +71,9 @@ The animated versions, and lessons that go deeper, are free at [Red Start Educat
 - [Tracking Difference](sheets/funds-and-etfs/tracking-difference.md): The gap between fund and index can be smaller than the fee: a 0.20% TER minus a 0.14% tax edge leaves a gap of about 0.06%.
 - [Thematic ETF Traps](sheets/funds-and-etfs/thematic-etf-traps.md): €10,000 in a clean energy ETF became €6,662 in 5 years; in a world ETF, €17,216. The theme can win while the fund loses.
 - [Money Market Funds](sheets/funds-and-etfs/money-market-funds.md): A fund of very short loans whose yield follows the ECB rate: about €250 a year on €10,000 now, below zero in 2019 to 2022. No guarantee.
+- [What Is the TER?](sheets/funds-and-etfs/what-is-the-ter.md): The TER is a fund's yearly running cost as a %. It has three names on three papers, and some money never shows in it.
+- [NAV, iNAV and the Price](sheets/funds-and-etfs/nav-inav-and-the-price.md): Three numbers for one ETF share. Most days they sit close, but a Japan ETF on Xetra trades all day while Tokyo is shut.
+- [ISIN and Ticker](sheets/funds-and-etfs/isin-and-ticker.md): One fund, one ISIN, many tickers. A €131 billion world ETF has 10 listings in 4 currencies, and one ticker means two currencies.
 
 ### How Markets Work
 
