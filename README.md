@@ -74,6 +74,8 @@ The animated versions, and lessons that go deeper, are free at [Red Start Educat
 - [What Is the TER?](sheets/funds-and-etfs/what-is-the-ter.md): The TER is a fund's yearly running cost as a %. It has three names on three papers, and some money never shows in it.
 - [NAV, iNAV and the Price](sheets/funds-and-etfs/nav-inav-and-the-price.md): Three numbers for one ETF share. Most days they sit close, but a Japan ETF on Xetra trades all day while Tokyo is shut.
 - [ISIN and Ticker](sheets/funds-and-etfs/isin-and-ticker.md): One fund, one ISIN, many tickers. A €131 billion world ETF has 10 listings in 4 currencies, and one ticker means two currencies.
+- [The KID's Risk Number](sheets/funds-and-etfs/the-kid-risk-number.md): Two world ETF KIDs say risk 4 of 7, "medium". Their stress line turns 10,000 into about 4,000 in a year.
+- [Currency-Hedged ETFs](sheets/funds-and-etfs/currency-hedged-etfs.md): A hedged class takes the dollar out of a world fund. 2024 +19% vs +26%, 2025 +16% vs +7%, and the hedge costs about 1.4% a year now.
 
 ### How Markets Work
 
