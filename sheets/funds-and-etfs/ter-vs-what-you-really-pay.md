@@ -12,7 +12,7 @@ No bill ever comes. The fee is taken inside the fund, a little every day.
 1. A Yearly %: set by the fund. Here 0.20%.
 2. Taken Every Day: 0.20% ÷ 365: about 5 cents a day.
 3. Already in the Price: the price you see is after it.
-4. Shown Once a Year: in euros, in your cost report.
+4. Shown Once a Year: in your own currency, in your cost report.
 
 Real numbers: same index, €6 or €45 a year on €10,000: two MSCI World ETFs, TER 0.06% and 0.45% (justETF, 2025).
 Not in the TER: the fund's own trading costs. The KID adds them.
