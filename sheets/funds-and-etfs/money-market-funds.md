@@ -9,7 +9,7 @@ A fund of very short loans whose yield follows the ECB rate: about €250 a year
 Money Market Funds.
 A fund of very short loans to states and banks. Its yield follows the ECB's rate.
 
-Bank Deposit: guaranteed up to €100,000 per bank. Your bank sets the rate, and moves it slowly. Guaranteed.
+Bank Deposit: guaranteed up to €!100,000 per bank. Your bank sets the rate, and moves it slowly. Guaranteed.
 Money Market Fund: loans of 6 months or less, on average. ECB rate 2.50% since Sep 2026: on €10,000, before fees: €250 a year. Not guaranteed.
 
 The catch: no guarantee. When the ECB rate was −0.50% (2019 to 2022), yields fell below zero.
