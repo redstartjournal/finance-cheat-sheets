@@ -2,12 +2,12 @@
 
 ![Thematic ETF Traps](thematic-etf-traps.png)
 
-€10,000 in a clean energy ETF became €6,662 in 5 years; in a world ETF, €17,216. The theme can win while the fund loses.
+€10,000 in a clean energy ETF became €6,662 in 5 years; in a world ETF, €17,216. The theme can do well while the fund loses.
 
 ## What the sheet says
 
 Thematic ETF Traps.
-The theme can win while the fund loses. Real numbers, 5 years to November 2026.
+The theme can do well while the fund loses. Real numbers, 5 years to November 2026.
 
 In the centre: why theme funds lag.
 Late Money: funds and buyers arrive after the big jump.
