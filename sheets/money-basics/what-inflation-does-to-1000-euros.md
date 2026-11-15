@@ -8,7 +8,7 @@ At 2% inflation a year, €1,000 kept for 10 years buys what about €820 buys t
 
 Title: What Inflation Does to €1,000
 Highlight: Inflation
-Subtitle: Prices rise, so the same euros buy less.
+Subtitle: Prices rise, so the same money buys less.
 Frame title: Your €1,000 at 2% Inflation a Year, for Example
 
 Part 1: Today. buys €1,000 of things. €1,000.
