@@ -14,7 +14,7 @@ S&P 500: 100%. 500 US firms.
 MSCI World: 73%. 23 rich countries.
 MSCI ACWI: 64%. Plus 24 emerging.
 
-The catch: "World", 73% US. MSCI World has 23 countries, but nearly 3 in 4 euros go to US firms (MSCI, 30 Sep 2026).
+The catch: "World", 73% US. MSCI World has 23 countries, but nearly 3 in every 4 units of money go to US firms (MSCI, 30 Sep 2026).
 FTSE All-World: about 4,250 shares in nearly 50 countries (FTSE Russell, 2026).
 
 ## Sources
