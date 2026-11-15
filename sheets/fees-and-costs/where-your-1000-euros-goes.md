@@ -2,12 +2,12 @@
 
 ![Where Your €1,000 Goes](where-your-1000-euros-goes.png)
 
-Buying a US share from a European account: the fees your €1,000 meets on the way, step by step.
+Buying a US share from an account in your own currency: the fees your €1,000 meets on the way, step by step.
 
 ## What the sheet says
 
 Where Your €1,000 Goes.
-Buying a US share from a European account, for example.
+Buying a US share from an account in your own currency, for example.
 
 You.
 1. You send your order. Buy US shares. €1,000.
@@ -16,7 +16,7 @@ Your broker.
 No payment for order flow. Brokers can't be paid to route your order. EU-wide since July 2026.
 Your €1,000: Commission, minus €1.
 Currency exchange.
-3. Euros become dollars. FX fee: 0.25%. €2.50.
+3. Your money becomes dollars. FX fee: 0.25%. €2.50.
 Your €1,000: FX fee 0.25%, minus €2.50.
 Stock exchange.
 Your €1,000: Buys shares, €996.50.
