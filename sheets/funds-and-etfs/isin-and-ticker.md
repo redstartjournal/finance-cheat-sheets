@@ -2,7 +2,7 @@
 
 ![ISIN and Ticker](isin-and-ticker.png)
 
-One fund, one ISIN, many tickers. A €131 billion world ETF has 10 listings in 4 currencies, and one ticker means two currencies.
+One fund, one ISIN, many tickers. A €!131 billion world ETF has 10 listings in 4 currencies, and one ticker means two currencies.
 
 ## What the sheet says
 
@@ -13,8 +13,8 @@ ISIN: 12 characters, one per share class. IE: the fund is from Ireland. 1 code, 
 Ticker: given by each exchange. Short, often 4 letters. 3 tickers for one fund.
 
 The catch: one ticker, two currencies. The same code trades in euros in Milan and in pounds in London.
-Real numbers: 1 ISIN → 4 currencies. 10 listings of a €131 billion world ETF, from Xetra and Milan to London and Mexico (justETF).
-A line in dollars, bought from a euro account, adds an FX fee. Search by the ISIN.
+Real numbers: 1 ISIN → 4 currencies. 10 listings of a €!131 billion world ETF, from Xetra and Milan to London and Mexico (justETF).
+A line in dollars, bought from an account in another currency, adds an FX fee. Search by the ISIN.
 
 ## Sources
 
