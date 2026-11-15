@@ -27,7 +27,7 @@ Busiest ETFs on Xetra, October 2026: less than €0.30 per €1,000.
 
 When the Gap Gets Wider.
 Small, less traded shares and funds: few buyers and sellers, so fewer prices to match.
-The holdings' home market is closed: a Japan fund traded in Europe after Tokyo closes, or a US fund on a US holiday.
+The holdings' home market is closed: a Japan fund traded outside Japan after Tokyo closes, or a US fund on a US holiday.
 Just after the open, and near the close. Xetra's main session, for example: 9:00 to 17:30 CET.
 
 Your Cap: the Limit Order.
