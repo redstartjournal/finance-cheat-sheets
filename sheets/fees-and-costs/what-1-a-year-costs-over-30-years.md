@@ -23,7 +23,7 @@ The gap keeps growing: €1,600, then €5,500, then €14,200, after 10, 20 and
 
 Where the Gain Goes. Gain with no cost: €47,000. Gain after the cost: €33,000. The cost took 30% of the gain.
 
-Why 1% Gets So Big. It is taken every year, from a bigger pot each year. Euros taken never grow again.
+Why 1% Gets So Big. It is taken every year, from a bigger pot each year. Money taken never grows again.
 
 The Formula, Simple Version. End value = start × (1 + return − cost) to the power of years.
 €10,000 × (1 + 0.06) to the power of 30 = about €57,000.
