@@ -14,7 +14,7 @@ A fund you buy like a share. Here, €100 in a world ETF, opened up.
 3. Weighted by Size: copied from the index: big firms get more.
 4. A Fee Inside: 0.20% a year: 20 cents on €100.
 
-The catch: 10 firms of 1,249 → €28 of every €100: the top 10 hold 27.78% of a €131 billion world ETF (justETF, 30 Sep 2026).
+The catch: 10 firms of 1,249 → €28 of every €100: the top 10 hold 27.78% of a €!131 billion world ETF (justETF, 30 Sep 2026).
 The top 3 alone: Nvidia €5.79, Apple €5.39, Microsoft €3.99.
 
 ## Sources
