@@ -2,12 +2,12 @@
 
 ![How to Read an ETF Factsheet](how-to-read-an-etf-factsheet.png)
 
-Five lines, read on a real €131 billion MSCI World ETF. The fund currency is not your risk: 73% of the money sits in US shares.
+Five lines, read on a real €!131 billion MSCI World ETF. The fund currency is not your risk: 73% of the money sits in US shares.
 
 ## What the sheet says
 
 How to Read an ETF Factsheet.
-Five lines, read on a real one: a €131 billion MSCI World ETF (justETF, 2 Nov 2026).
+Five lines, read on a real one: a €!131 billion MSCI World ETF (justETF, 2 Nov 2026).
 
 1. Index: MSCI World: 1,249 shares, 23 countries.
 2. TER: 0.20% a year: €20 on €10,000.
@@ -16,7 +16,7 @@ Five lines, read on a real one: a €131 billion MSCI World ETF (justETF, 2 Nov 
 5. Fund Currency: USD. Only how the price is shown. The catch.
 
 The catch: in $ or in €, 73% US. Whatever the fund currency, 73% of the money is in US shares (MSCI, Sep 2026).
-Not hedged: if the dollar falls against the euro, that 73% falls with it.
+Not hedged: if the dollar falls against the fund's currency (here the euro), that 73% falls with it.
 
 ## Sources
 
