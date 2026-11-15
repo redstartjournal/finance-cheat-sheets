@@ -2,15 +2,15 @@
 
 ![FX Fees: The Silent One](fx-fees-the-silent-one.png)
 
-A US share bought from a euro account changes currency on the way in, on the way out and on every dividend.
+A US share bought from an account in another currency changes currency on the way in, on the way out and on every dividend.
 
 ## What the sheet says
 
 FX Fees: The Silent One.
-Buy a US share from a euro account: your money changes currency twice, or more.
+Buy a US share from an account in your own currency: your money changes currency twice, or more.
 
 The Round Trip.
-You. Euro account.
+You. Home-currency account.
 1. You send €1,000.
 Currency exchange. A toll on every trip.
 2. Changed into dollars. Cost 0.5%: €5.
