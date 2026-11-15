@@ -14,7 +14,7 @@ You pay it. Others pay it, using your cash, shares or orders.
 Your broker earns nine ways.
 
 1. Commission: a fee each time you buy or sell.
-2. Currency fee: a fee or mark-up when your euros become dollars.
+2. Currency fee: a fee or mark-up when your money becomes dollars.
 3. CFD spread: the broker sets the price. The gap can hold a mark-up.
 4. Account fees: custody or account fees, charged yearly or monthly.
 5. Subscriptions: a monthly plan, often with trades included.
