@@ -10,7 +10,7 @@ Title: Simple vs Compound Interest
 Highlight: Compound Interest
 Subtitle: Interest on your money only, or on your interest too.
 
-Part 1: Simple. Paid on your first amount only. Same euros every year. €1,500 (after 10 years).
+Part 1: Simple. Paid on your first amount only. Same amount every year. €1,500 (after 10 years).
 Part 2: Compound. Paid on your amount plus past interest. More each year. €1,629 (after 10 years).
 
 Verdict: €1,000 at 5% for 10 years, for example. The gap: €129
