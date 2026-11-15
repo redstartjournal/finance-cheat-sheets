@@ -2,24 +2,24 @@
 
 ![Your Total Cost Formula](your-total-cost-formula.png)
 
-Every cost line a European investor can pay, added up as one yearly sum, and the EU rule that firms must show it before and after.
+Every cost line an investor can pay, added up as one yearly sum, and the EU rule that firms must show it before and after.
 
 ## What the sheet says
 
-Your Total Cost Formula. Every cost line a European investor can pay, added up as one sum.
+Your Total Cost Formula. Every cost line an investor can pay, added up as one sum.
 
 What Goes Into It. In the centre: your total yearly cost, in € and in %.
 - Ongoing charge: TER or OCF, every year. Set by: the fund.
 - Fund transaction costs: when the fund buys and sells. Set by: the fund.
 - Broker commission: each time you buy or sell. Set by: your broker.
-- FX conversion: euros into dollars, and back. Set by: your broker or bank.
+- FX conversion: your money into dollars, and back. Set by: your broker or bank.
 - The spread: gap between buy and sell price. Set by: the market.
 - Custody and account fees: for keeping your shares. Set by: your broker or bank.
 - Transaction taxes: in some countries, such as France, Italy and Spain. Set by: the state.
 - Incidental costs: for example a performance fee. Set by: the fund.
 
 The Sum, for Example. Total = ongoing + fund trading + incidental + commission + FX + spread + custody + taxes.
-€10,000 in a fund in euros, bought once, held for one year: €20 ongoing + €10 fund trading + €0 incidental + €5 commission + €0 FX + €5 spread + €0 custody + €0 taxes = €40, that is 0.4% a year.
+€10,000 in a fund in your own currency, bought once, held for one year: €20 ongoing + €10 fund trading + €0 incidental + €5 commission + €0 FX + €5 spread + €0 custody + €0 taxes = €40, that is 0.4% a year.
 
 The EU Rule: All Costs, Before and After.
 Before You Invest: all costs added up, in € and in %, and what they do to your return.
