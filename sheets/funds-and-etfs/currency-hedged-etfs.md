@@ -7,7 +7,7 @@ A hedged class takes the dollar out of a world fund. 2024 +19% vs +26%, 2025 +16
 ## What the sheet says
 
 Currency-Hedged ETFs.
-Same world shares, with the dollar's moves taken out by a monthly currency contract. Real returns in euros.
+Same world shares, with the dollar's moves taken out by a monthly currency contract. Real returns for an investor whose money is in euros.
 
 One world index, two share classes.
 2024, not hedged: +26%. 2024, hedged: +19%.
