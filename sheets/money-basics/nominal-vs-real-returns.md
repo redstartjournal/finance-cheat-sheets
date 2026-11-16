@@ -23,6 +23,7 @@ Footer: redstartjournal.com · Education, not investment advice · CC BY-NC-ND 4
 ## Sources
 
 1. [Two per cent inflation target](https://www.ecb.europa.eu/mopo/strategy/pricestab/html/index.en.html): European Central Bank, undated page: the ECB's 2% medium-term inflation target, the source of the "2%" in the example. Checked 2026-10-29.
+2. [What are interest rates and what is the difference between nominal and real interest rates?](https://www.ecb.europa.eu/ecb/educational/explainers/tell-me/html/nominal_and_real_interest_rates.en.html): European Central Bank explainer, 25 May 2016: real interest rate = nominal interest rate minus inflation; its example, 2.5% interest with 3% inflation, gives a real return of -0.5%. Backs "about 3%" (5% minus 2%); the exact figure is on the sheet. Checked 2026-11-02.
 
 ---
 
