@@ -10,6 +10,12 @@ Thank you for helping. These sheets are read by people who are new to money, so 
 2. **Suggest a sheet.** Open a "Suggest a sheet" issue: the idea, who it helps, and the sources you would use.
 3. **Improve the text.** Pull requests that fix typos or make the text under a sheet clearer are welcome.
 
+## Which sources count
+
+Official sources first: EU law (EUR-Lex), EU bodies (ESMA, EBA, the ECB, Eurostat), national regulators, central banks
+and tax offices, then the product's own papers (a fund's KID or factsheet, a broker's price list). News sites, blogs
+and firms' guides can back up an official source, or stand in when there is none.
+
 ## What we can't take
 
 - Redrawn or edited versions of the sheets (the licence is no-derivatives, and the drawings are made in one style).
