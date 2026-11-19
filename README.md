@@ -12,6 +12,8 @@ The animated versions, and lessons that go deeper, are free at [Red Start Educat
 ## How to use them
 
 - Read them, save them, print them, share them, use them in class. Please keep the credit to Red Start Journal.
+- To credit a sheet, give its title, "Red Start Journal", a link to the sheet and the licence, for example:
+  "Where Your €1,000 Goes" by Red Start Journal, https://education.redstartjournal.com/cheat-sheets/where-your-1000-euros-goes, CC BY-NC-ND 4.0.
 - Found a mistake, or want a sheet on something? [Open an issue](../../issues/new/choose). Every correction needs a source.
 - See [CONTRIBUTING.md](CONTRIBUTING.md) for how suggestions and fixes work.
 
