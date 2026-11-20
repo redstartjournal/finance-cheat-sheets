@@ -19,6 +19,9 @@ The animated versions, and lessons that go deeper, are free at [Red Start Educat
 
 ## Sheets
 
+Each sheet is a picture (`.png`) and a page (`.md`) with its words and sources, in `sheets/<category>/`. A sheet in more
+than one category sits in the folder of the first one. A category that says "Next in the course" has no sheets yet.
+
 ### ★ Featured
 
 - [Top 6 Fees That Eat Returns](sheets/fees-and-costs/top-6-fees-that-eat-returns.md): Six costs that quietly shrink what you keep: fund fees, commissions, currency exchange, the spread, account fees and trade taxes.
