@@ -23,6 +23,7 @@ Footer: redstartjournal.com · Education, not investment advice · CC BY-NC-ND 4
 ## Sources
 
 1. [Two per cent inflation target](https://www.ecb.europa.eu/mopo/strategy/pricestab/html/index.en.html): European Central Bank, undated page: the ECB's target is 2% inflation over the medium term, adopted in July 2021, measured with the HICP for the euro area. Checked 2026-10-29.
+2. [Harmonised Index of Consumer Prices (HICP)](https://www.ecb.europa.eu/services/glossary/html/act4h.en.html): European Central Bank glossary: the HICP is the consumer price index published by Eurostat, made the same way in every EU country; it is the measure the ECB uses to define price stability in the euro area. Backs what the 2% in source 1 is measured with. Checked 2026-11-02.
 
 ---
 
