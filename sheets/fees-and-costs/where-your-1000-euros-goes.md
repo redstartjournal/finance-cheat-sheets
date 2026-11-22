@@ -37,6 +37,7 @@ redstartjournal.com · Education, not investment advice · CC BY-NC-ND 4.0
 2. [Regulation (EU) 2024/791 amending MiFIR (Article 39a)](https://eur-lex.europa.eu/eli/reg/2024/791/oj): EUR-Lex, 2024: investment firms may not receive payment from third parties for routing client orders (in force since 28 March 2024; a member state could exempt its own clients until 30 June 2026). Checked 2026-10-29.
 3. [BaFin outlines key dos and don'ts for neobrokers after the PFOF ban took effect in Germany](https://www.regulationtomorrow.com/2026/07/bafin-outlines-key-dos-and-donts-for-neobrokers-after-the-pfof-ban-took-effect-in-germany/): Regulation Tomorrow, July 2026: the last national exemption (Germany) ended on 30 June 2026, so the ban applies EU-wide from 1 July 2026. Checked 2026-10-29.
 4. [Depotkosten im Vergleich](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/): Stiftung Warentest, 2025: some securities accounts cost nothing, many branch-bank accounts charge a yearly fee. Backs "€0 at some, a fee at others". Checked 2026-10-29.
+5. [One year to go for T+1 settlement](https://www.esma.europa.eu/press-news/esma-news/one-year-go-t1-settlement-regulatory-framework-complete-now-lets-make-it): ESMA, 16 October 2026: the EU switches to T+1 settlement on 11 October 2027. Not on the sheet, which shows the US rule for a US share; trades settled in the EU follow the same one-day cycle from that date. Checked 2026-11-02.
 
 ---
 
