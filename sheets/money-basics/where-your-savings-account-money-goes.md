@@ -24,7 +24,7 @@ Footer: redstartjournal.com · Education, not investment advice · CC BY-NC-ND 4
 ## Sources
 
 1. [What are minimum reserve requirements?](https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me/html/minimum_reserve_req.en.html): European Central Bank, 2016, updated 2023: euro area banks hold 1% of specific liabilities, mainly customer deposits and short-term debt, in accounts at their national central bank. Checked 2026-10-29.
-2. [Minimum reserves](https://www.bundesbank.de/en/tasks/monetary-policy/minimum-reserves/minimum-reserves-625912): Deutsche Bundesbank, undated: the ratio has been 1% since 18 January 2012. Press reports in mid-2026 say the ECB may consider 2%; no decision found on 2026-10-29, so the sheet says 1%. Checked 2026-10-29.
+2. [Minimum reserves](https://www.bundesbank.de/en/tasks/monetary-policy/minimum-reserves/minimum-reserves-625912): Deutsche Bundesbank, undated: the ratio has been 1% since 18 January 2012 (it was 2% from 1 January 1999). Neither this page nor the ECB's (source 1) shows a change, so the sheet says 1%. Checked 2026-11-02.
 3. [Directive 2014/49/EU on deposit guarantee schemes](https://eur-lex.europa.eu/eli/dir/2014/49/oj/eng): European Parliament and Council, 2014: €!100,000 per depositor, per bank. Checked 2026-10-29.
 4. [I have savings and other bank accounts: what are my guarantees?](https://www.garantiedesdepots.fr/en/discover-my-guarantees/I-have-savings-and-other-bank-accounts-what-are-my-guarantees): FGDR (France's national scheme), undated: €!100,000 per customer, per bank, paid within seven working days. Checked 2026-10-29.
 
