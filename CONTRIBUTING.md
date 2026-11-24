@@ -4,7 +4,7 @@ Thank you for helping. These sheets are read by people who are new to money, so 
 
 ## Ways to help
 
-1. **Report a mistake.** Open a "Correction" issue: which sheet, what is wrong, and a source that shows the right fact
+1. **Report a mistake.** Open a ["Correction" issue](../../issues/new?template=correction.yml): which sheet, what is wrong, and a source that shows the right fact
    (a regulator, a law, an official statistic, the company's own report). We check it, fix the sheet and thank you in the
    change.
 2. **Suggest a sheet.** Open a "Suggest a sheet" issue: the idea, who it helps, and the sources you would use.
