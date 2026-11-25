@@ -7,7 +7,7 @@ Thank you for helping. These sheets are read by people who are new to money, so 
 1. **Report a mistake.** Open a ["Correction" issue](../../issues/new?template=correction.yml): which sheet, what is wrong, and a source that shows the right fact
    (a regulator, a law, an official statistic, the company's own report). We check it, fix the sheet and thank you in the
    change.
-2. **Suggest a sheet.** Open a "Suggest a sheet" issue: the idea, who it helps, and the sources you would use.
+2. **Suggest a sheet.** Open a ["Suggest a sheet" issue](../../issues/new?template=suggest-a-sheet.yml): the idea, who it helps, and the sources you would use.
 3. **Improve the text.** Pull requests that fix typos or make the text under a sheet clearer are welcome.
 
 ## Which sources count
