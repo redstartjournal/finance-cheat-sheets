@@ -9,6 +9,8 @@ Thank you for helping. These sheets are read by people who are new to money, so 
    change.
 2. **Suggest a sheet.** Open a ["Suggest a sheet" issue](../../issues/new?template=suggest-a-sheet.yml): the idea, who it helps, and the sources you would use.
 3. **Improve the text.** Pull requests that fix typos or make the text under a sheet clearer are welcome.
+4. **Report an old fact or a dead link.** Every source shows the day we last checked it. Rules, rates and web pages can
+   change after that day: tell us which sheet and which source, and the new source if you have one.
 
 ## Which sources count
 
