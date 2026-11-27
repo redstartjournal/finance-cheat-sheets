@@ -5,7 +5,9 @@ Copyright © 2026 Red Start Journal.
 The cheat sheets in this repository (the images and the text that comes with them) are licensed under the
 **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International** licence (CC BY-NC-ND 4.0).
 
-- **Attribution:** give credit to "Red Start Journal" with a link to https://redstartjournal.com.
+- **Attribution:** give credit to "Red Start Journal" with a link to https://redstartjournal.com. A full credit names
+  the title, the author, the source and the licence, for example: "Where Your €1,000 Goes" by Red Start Journal
+  (https://redstartjournal.com), CC BY-NC-ND 4.0.
 - **NonCommercial:** don't use them to make money (for example in a paid course, a product or ads).
 - **NoDerivatives:** share them as they are. Don't change, crop, translate or redraw them and share the result.
 
